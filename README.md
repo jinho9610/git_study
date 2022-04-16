@@ -8,5 +8,3 @@ pull: 원격 저장소의 내용을 가져오기
 
 gary added line
 gary2 added line
-
-new line
